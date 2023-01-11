@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head> </head>
+
+<body>
+    <section class="login-panel">
+        <div class="left-side"></div>
+        <div class="right-side">
+            <h1>Sign Up</h1>
+            <p>Sign up and get a access</p>
+
+            <input type="email" name="" id="username" placeholder="Email" required>
+            <input type="password" name="" id="password" placeholder="Password" required>
+
+            <input type="submit" value="let's go" onclick="Verify();" class="submit-btn">
+        </div>
+    </section>
+</body>
+
+</html>
